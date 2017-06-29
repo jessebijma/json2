@@ -1,0 +1,26 @@
+{
+  "schools": {
+    "Mediacollege": {
+      "category": "MBO HBO",
+      "nr_students": "1500",
+      "courses": [
+        ""
+      ]
+    },
+    "ROC van Amsterdam": {
+      "category": "MBO",
+      "nr_students": 54321,
+      "courses": [
+        "Timmerman",
+        "Lasser"
+      ]
+    },
+    "Testschool": {
+      "category": "MBO",
+      "nr_students": "1345678765",
+      "courses": [
+        ""
+      ]
+    }
+  }
+}
